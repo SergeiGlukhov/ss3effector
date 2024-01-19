@@ -1,0 +1,3323 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1241"
+   height="690"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="Zakupkilevel23.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.7284448"
+     inkscape:cx="558.88392"
+     inkscape:cy="349.44709"
+     inkscape:window-width="2880"
+     inkscape:window-height="1688"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <rect
+       x="730.13613"
+       y="247.04289"
+       width="76.369231"
+       height="28.927739"
+       id="rect14" />
+    <rect
+       x="728.40047"
+       y="248.2"
+       width="74.633567"
+       height="26.034965"
+       id="rect7" />
+    <rect
+       x="517.22797"
+       y="87.940326"
+       width="76.947786"
+       height="28.927739"
+       id="rect4" />
+    <rect
+       x="697.73706"
+       y="174.14499"
+       width="155.05268"
+       height="79.840559"
+       id="rect3" />
+    <rect
+       x="91.638402"
+       y="562.51251"
+       width="200.0499"
+       height="36.000799"
+       id="rect2" />
+    <rect
+       x="74.251651"
+       y="263.8695"
+       width="102.6322"
+       height="49.663848"
+       id="rect1" />
+    <linearGradient
+       id="swatch1"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+    </linearGradient>
+    <pattern
+       height="10"
+       id="djs-grid-pattern-858745"
+       patternUnits="userSpaceOnUse"
+       width="10">
+      <circle
+         cx="0.5"
+         cy="0.5"
+         fill="rgb(204, 204, 204)"
+         id="svg_1"
+         r="0.5" />
+    </pattern>
+    <marker
+       id="association-end-white-hsl_225_10_15_-62a4gupua6qu24g3pb2so5omc"
+       markerHeight="10"
+       markerWidth="10"
+       orient="auto"
+       refX="11"
+       refY="10"
+       viewBox="0 0 20 20">
+      <path
+         d="m1,5l10,5l-10,5"
+         fill="none"
+         id="svg_2"
+         stroke="rgb(34, 36, 42)"
+         stroke-dasharray="10000, 1"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="1.5px" />
+    </marker>
+    <marker
+       id="sequenceflow-end-white-hsl_225_10_15_-62a4gupua6qu24g3pb2so5omc"
+       markerHeight="10"
+       markerWidth="10"
+       orient="auto"
+       refX="11"
+       refY="10"
+       viewBox="0 0 20 20">
+      <path
+         d="m1,5l10,5l-10,5l0,-10z"
+         fill="rgb(34, 36, 42)"
+         id="svg_3"
+         stroke="rgb(34, 36, 42)"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="1px" />
+    </marker>
+    <marker
+       id="messageflow-end-white-hsl_225_10_15_-62a4gupua6qu24g3pb2so5omc"
+       markerHeight="20"
+       markerWidth="20"
+       orient="auto"
+       refX="8.5"
+       refY="5"
+       viewBox="0 0 20 20">
+      <path
+         d="m1,5l0,-3l7,3l-7,3l0,-3z"
+         fill="white"
+         id="svg_4"
+         stroke="rgb(34, 36, 42)"
+         stroke-dasharray="10000, 1"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="1px" />
+    </marker>
+    <marker
+       id="messageflow-start-white-hsl_225_10_15_-62a4gupua6qu24g3pb2so5omc"
+       markerHeight="20"
+       markerWidth="20"
+       orient="auto"
+       refX="6"
+       refY="6"
+       viewBox="0 0 20 20">
+      <circle
+         cx="6"
+         cy="6"
+         fill="white"
+         id="svg_5"
+         r="3.5"
+         stroke="rgb(34, 36, 42)"
+         stroke-dasharray="10000, 1"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="1px" />
+    </marker>
+  </defs>
+  <g
+     class="djs-visual"
+     id="svg_8"
+     transform="translate(4.93986,2.972495)">
+    <rect
+       fill="#ffffff"
+       fill-opacity="0.95"
+       height="130"
+       id="svg_9"
+       stroke="#22242a"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="1.5px"
+       width="1231"
+       x="0"
+       y="0" />
+    <path
+       d="M 30,0 V 130"
+       fill="none"
+       id="svg_10"
+       stroke="#22242a"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="1.5px" />
+    <text
+       class="djs-label"
+       fill="#22242a"
+       font-family="Arial, sans-serif"
+       font-size="12px"
+       font-weight="normal"
+       id="svg_11"
+       transform="rotate(-90,65,65)"><tspan
+         id="svg_12"
+         x="34.07"
+         y="18.6">Поставщик</tspan></text>
+  </g>
+  <rect
+     class="djs-hit djs-hit-no-move"
+     fill="none"
+     height="130"
+     id="svg_13"
+     stroke="#ffffff"
+     stroke-opacity="0"
+     stroke-width="15px"
+     width="1231"
+     x="4.9398599"
+     y="2.9724951" />
+  <rect
+     class="djs-hit djs-hit-click-stroke"
+     fill="none"
+     height="130"
+     id="svg_14"
+     stroke="#ffffff"
+     stroke-opacity="0"
+     stroke-width="15px"
+     width="1231"
+     x="4.9398599"
+     y="2.9724951" />
+  <rect
+     class="djs-hit djs-hit-all"
+     fill="none"
+     height="130"
+     id="svg_15"
+     stroke="#ffffff"
+     stroke-opacity="0"
+     stroke-width="15px"
+     width="30"
+     x="4.9398599"
+     y="2.9724951" />
+  <rect
+     class="djs-outline"
+     fill="none"
+     height="140"
+     id="svg_16"
+     rx="4"
+     width="1241"
+     x="-0.060139999"
+     y="-2.0275049" />
+  <g
+     class="djs-group"
+     id="svg_18"
+     transform="translate(-144.06014,-37.027505)">
+    <g
+       class="djs-element djs-shape"
+       data-element-id="Activity_1djbuk6"
+       display="block"
+       id="svg_19"
+       transform="translate(410,60)">
+      <g
+         class="djs-visual"
+         id="svg_20">
+        <rect
+           fill="#ffffff"
+           fill-opacity="0.95"
+           height="80"
+           id="svg_21"
+           rx="10"
+           ry="10"
+           stroke="#22242a"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2px"
+           width="100"
+           x="0"
+           y="0" />
+        <text
+           class="djs-label"
+           fill="#22242a"
+           font-family="Arial, sans-serif"
+           font-size="12px"
+           font-weight="normal"
+           id="svg_22"><tspan
+             id="svg_23"
+             x="18.43"
+             y="29.200001">Подготовка</tspan><tspan
+             id="svg_24"
+             x="8.3100004"
+             y="43.599998">коммерческого</tspan><tspan
+             id="svg_25"
+             x="12.62"
+             y="58">предложения</tspan></text>
+      </g>
+      <rect
+         class="djs-hit djs-hit-all"
+         fill="none"
+         height="80"
+         id="svg_26"
+         stroke="#ffffff"
+         stroke-opacity="0"
+         stroke-width="15px"
+         width="100"
+         x="0"
+         y="0" />
+      <rect
+         class="djs-outline"
+         fill="none"
+         height="90"
+         id="svg_27"
+         rx="14"
+         width="110"
+         x="-5"
+         y="-5" />
+    </g>
+  </g>
+  <g
+     class="djs-group"
+     id="svg_28"
+     transform="translate(-144.06014,-37.027505)">
+    <g
+       class="djs-element djs-shape"
+       data-element-id="Activity_06bj5fo"
+       display="block"
+       id="svg_29"
+       transform="translate(970,60)">
+      <g
+         class="djs-visual"
+         id="svg_30">
+        <rect
+           fill="#ffffff"
+           fill-opacity="0.95"
+           height="80"
+           id="svg_31"
+           rx="10"
+           ry="10"
+           stroke="#22242a"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2px"
+           width="100"
+           x="0"
+           y="0" />
+        <text
+           class="djs-label"
+           fill="#22242a"
+           font-family="Arial, sans-serif"
+           font-size="12px"
+           font-weight="normal"
+           id="svg_32"><tspan
+             id="svg_33"
+             x="16.049999"
+             y="36.400002">Подписание</tspan><tspan
+             id="svg_34"
+             x="24.860001"
+             y="50.799999">договора</tspan></text>
+      </g>
+      <rect
+         class="djs-hit djs-hit-all"
+         fill="none"
+         height="80"
+         id="svg_35"
+         stroke="#ffffff"
+         stroke-opacity="0"
+         stroke-width="15px"
+         width="100"
+         x="0"
+         y="0" />
+      <rect
+         class="djs-outline"
+         fill="none"
+         height="90"
+         id="svg_36"
+         rx="14"
+         width="110"
+         x="-5"
+         y="-5" />
+    </g>
+  </g>
+  <g
+     class="djs-group"
+     id="svg_37"
+     transform="translate(-144.06014,-37.027505)">
+    <g
+       class="djs-element djs-shape"
+       data-element-id="DataObjectReference_0gqn0j7"
+       display="block"
+       id="svg_38"
+       transform="translate(262,75)">
+      <g
+         class="djs-visual"
+         id="svg_39">
+        <path
+           d="m 0,0 h 28.24 l 7.05,8.2 V 49.18 H 0 V 0 h 28.24 v 8.2 h 7.05"
+           fill="#ffffff"
+           fill-opacity="0.95"
+           id="svg_40"
+           stroke="#22242a"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2px" />
+      </g>
+      <rect
+         class="djs-hit djs-hit-all"
+         fill="none"
+         height="50"
+         id="svg_41"
+         stroke="#ffffff"
+         stroke-opacity="0"
+         stroke-width="15px"
+         width="36"
+         x="0"
+         y="0" />
+      <path
+         class="djs-outline"
+         d="M 44.76,11.33 36.99,2.64 C 36.05,1.59 34.57,0.99 33.19,0.99 H 5.99 c -2.76,0 -5,2.36 -5,5.27 v 48.76 c 0,2.91 2.24,5.28 5,5.28 h 34.98 c 2.76,0 4.99,-2.37 4.99,-5.28 V 14.95 c 0,-1.35 -0.32,-2.65 -1.2,-3.62 z"
+         fill="none"
+         id="svg_42"
+         stroke-width="2px"
+         transform="translate(-6,-6)" />
+    </g>
+  </g>
+  <g
+     class="djs-group"
+     id="svg_43"
+     transform="translate(-144.06014,-37.027505)">
+    <g
+       class="djs-element djs-shape"
+       data-element-id="DataObjectReference_0gqn0j7_label"
+       display="block"
+       id="svg_44"
+       transform="translate(250,132)">
+      <g
+         class="djs-visual"
+         id="svg_45">
+        <text
+           class="djs-label"
+           fill="#22242a"
+           font-family="Arial, sans-serif"
+           font-size="11px"
+           font-weight="normal"
+           id="svg_46"><tspan
+             id="svg_47"
+             x="12.65"
+             y="9.8999996">Форма</tspan><tspan
+             id="svg_48"
+             x="0"
+             y="23.1">требования</tspan></text>
+      </g>
+      <rect
+         class="djs-hit djs-hit-all"
+         fill="none"
+         height="27"
+         id="svg_49"
+         stroke="#ffffff"
+         stroke-opacity="0"
+         stroke-width="15px"
+         width="60"
+         x="0"
+         y="0" />
+      <rect
+         class="djs-outline"
+         fill="none"
+         height="37"
+         id="svg_50"
+         rx="4"
+         width="70"
+         x="-5"
+         y="-5" />
+    </g>
+  </g>
+  <g
+     class="djs-element djs-shape"
+     data-element-id="Participant_1rbi3u1"
+     display="block"
+     id="svg_52"
+     transform="translate(4.93986,157.97249)">
+    <g
+       class="djs-visual"
+       id="svg_53">
+      <rect
+         fill="#ffffff"
+         fill-opacity="0.95"
+         height="525"
+         id="svg_54"
+         stroke="#22242a"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="1.5px"
+         width="1231"
+         x="0"
+         y="0" />
+      <path
+         d="M 30,0 V 525"
+         fill="none"
+         id="svg_55"
+         stroke="#22242a"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="1.5px" />
+      <text
+         class="djs-label"
+         fill="#22242a"
+         font-family="Arial, sans-serif"
+         font-size="12px"
+         font-weight="normal"
+         id="svg_56"
+         transform="rotate(-90,262.5,262.5)"><tspan
+           id="svg_57"
+           x="231.57001"
+           y="18.6">Поставщик</tspan></text>
+    </g>
+    <rect
+       class="djs-hit djs-hit-no-move"
+       fill="none"
+       height="525"
+       id="svg_58"
+       stroke="#ffffff"
+       stroke-opacity="0"
+       stroke-width="15px"
+       width="1231"
+       x="0"
+       y="0" />
+    <rect
+       class="djs-hit djs-hit-click-stroke"
+       fill="none"
+       height="525"
+       id="svg_59"
+       stroke="#ffffff"
+       stroke-opacity="0"
+       stroke-width="15px"
+       width="1231"
+       x="0"
+       y="0" />
+    <rect
+       class="djs-hit djs-hit-all"
+       fill="none"
+       height="525"
+       id="svg_60"
+       stroke="#ffffff"
+       stroke-opacity="0"
+       stroke-width="15px"
+       width="30"
+       x="0"
+       y="0" />
+    <rect
+       class="djs-outline"
+       fill="none"
+       height="535"
+       id="svg_61"
+       rx="4"
+       width="1241"
+       x="-5"
+       y="-5" />
+  </g>
+  <g
+     class="djs-children"
+     id="svg_62"
+     transform="translate(-144.06014,-37.60606)">
+    <g
+       class="djs-group"
+       id="svg_63">
+      <g
+         class="djs-element djs-shape"
+         data-element-id="Lane_0vnw76y"
+         display="block"
+         id="svg_64"
+         transform="translate(179,470)">
+        <g
+           class="djs-visual"
+           id="svg_65">
+          <rect
+             fill="#ffffff"
+             fill-opacity="0.25"
+             height="120"
+             id="svg_66"
+             stroke="#22242a"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="1.5px"
+             width="1201"
+             x="0"
+             y="0" />
+          <text
+             class="djs-label"
+             fill="#22242a"
+             font-family="Arial, sans-serif"
+             font-size="12px"
+             font-weight="normal"
+             id="svg_67"
+             transform="rotate(-90,60,60)"><tspan
+               id="svg_68"
+               x="41.459999"
+               y="18.6">Юрист</tspan></text>
+        </g>
+        <rect
+           class="djs-hit djs-hit-no-move"
+           fill="none"
+           height="120"
+           id="svg_69"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px"
+           width="1201"
+           x="0"
+           y="0" />
+        <rect
+           class="djs-hit djs-hit-click-stroke"
+           fill="none"
+           height="120"
+           id="svg_70"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px"
+           width="1201"
+           x="0"
+           y="0" />
+        <rect
+           class="djs-hit djs-hit-all"
+           fill="none"
+           height="120"
+           id="svg_71"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px"
+           width="30"
+           x="0"
+           y="0" />
+        <rect
+           class="djs-outline"
+           fill="none"
+           height="130"
+           id="svg_72"
+           rx="4"
+           width="1211"
+           x="-5"
+           y="-5" />
+      </g>
+    </g>
+    <g
+       class="djs-group"
+       id="svg_73">
+      <g
+         class="djs-element djs-shape"
+         data-element-id="Lane_1onod18"
+         display="block"
+         id="svg_74"
+         transform="translate(179,590)">
+        <g
+           class="djs-visual"
+           id="svg_75">
+          <rect
+             fill="#ffffff"
+             fill-opacity="0.25"
+             height="130"
+             id="svg_76"
+             stroke="#22242a"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="1.5px"
+             width="1201"
+             x="0"
+             y="0" />
+          <text
+             class="djs-label"
+             fill="#22242a"
+             font-family="Arial, sans-serif"
+             font-size="12px"
+             font-weight="normal"
+             id="svg_77"
+             transform="rotate(-90,65,65)"><tspan
+               id="svg_78"
+               x="26.360001"
+               y="18.6">Руководитель</tspan></text>
+        </g>
+        <rect
+           class="djs-hit djs-hit-no-move"
+           fill="none"
+           height="130"
+           id="svg_79"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px"
+           width="1201"
+           x="0"
+           y="0" />
+        <rect
+           class="djs-hit djs-hit-click-stroke"
+           fill="none"
+           height="130"
+           id="svg_80"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px"
+           width="1201"
+           x="0"
+           y="0" />
+        <rect
+           class="djs-hit djs-hit-all"
+           fill="none"
+           height="130"
+           id="svg_81"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px"
+           width="30"
+           x="0"
+           y="0" />
+        <rect
+           class="djs-outline"
+           fill="none"
+           height="140"
+           id="svg_82"
+           rx="4"
+           width="1211"
+           x="-5"
+           y="-5" />
+      </g>
+    </g>
+    <g
+       class="djs-group"
+       id="svg_83">
+      <g
+         class="djs-element djs-shape hover"
+         data-element-id="Lane_0w803d7"
+         display="block"
+         id="svg_84"
+         transform="translate(179,195)">
+        <g
+           class="djs-visual"
+           id="svg_85">
+          <rect
+             fill="#ffffff"
+             fill-opacity="0.25"
+             height="135"
+             id="svg_86"
+             stroke="#22242a"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="1.5px"
+             width="1201"
+             x="0"
+             y="0" />
+          <text
+             class="djs-label"
+             fill="#22242a"
+             font-family="Arial, sans-serif"
+             font-size="12px"
+             font-weight="normal"
+             id="svg_87"
+             transform="rotate(-90,67.5,67.5)"><tspan
+               id="svg_88"
+               x="14.52"
+               y="18.6">Инициатор закупки</tspan></text>
+        </g>
+        <rect
+           class="djs-hit djs-hit-no-move"
+           fill="none"
+           height="135"
+           id="svg_89"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px"
+           width="1201"
+           x="0"
+           y="0" />
+        <rect
+           class="djs-hit djs-hit-click-stroke"
+           fill="none"
+           height="135"
+           id="svg_90"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px"
+           width="1201"
+           x="0"
+           y="0" />
+        <rect
+           class="djs-hit djs-hit-all"
+           fill="none"
+           height="135"
+           id="svg_91"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px"
+           width="30"
+           x="0"
+           y="0" />
+        <rect
+           class="djs-outline"
+           fill="none"
+           height="145"
+           id="svg_92"
+           rx="4"
+           width="1211"
+           x="-5"
+           y="-5" />
+      </g>
+    </g>
+    <g
+       class="djs-group"
+       id="svg_93">
+      <g
+         class="djs-element djs-shape"
+         data-element-id="Lane_1iubkgk"
+         display="block"
+         id="svg_94"
+         transform="translate(179,330)">
+        <g
+           class="djs-visual"
+           id="svg_95">
+          <rect
+             fill="#ffffff"
+             fill-opacity="0.25"
+             height="140"
+             id="svg_96"
+             stroke="#22242a"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="1.5px"
+             width="1201"
+             x="0"
+             y="0" />
+          <text
+             class="djs-label"
+             fill="#22242a"
+             font-family="Arial, sans-serif"
+             font-size="12px"
+             font-weight="normal"
+             id="svg_97"
+             transform="rotate(-90,70,70)"><tspan
+               id="svg_98"
+               x="43.02"
+               y="18.6">Закупщик</tspan></text>
+        </g>
+        <rect
+           class="djs-hit djs-hit-no-move"
+           fill="none"
+           height="140"
+           id="svg_99"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px"
+           width="1201"
+           x="0"
+           y="0" />
+        <rect
+           class="djs-hit djs-hit-click-stroke"
+           fill="none"
+           height="140"
+           id="svg_100"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px"
+           width="1201"
+           x="0"
+           y="0" />
+        <rect
+           class="djs-hit djs-hit-all"
+           fill="none"
+           height="140"
+           id="svg_101"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px"
+           width="30"
+           x="0"
+           y="0" />
+        <rect
+           class="djs-outline"
+           fill="none"
+           height="150"
+           id="svg_102"
+           rx="4"
+           width="1211"
+           x="-5"
+           y="-5" />
+      </g>
+    </g>
+    <g
+       class="djs-group"
+       id="svg_103">
+      <g
+         class="djs-element djs-shape"
+         data-element-id="StartEvent_1"
+         display="block"
+         id="svg_104"
+         transform="translate(222,242)">
+        <g
+           class="djs-visual"
+           id="svg_105">
+          <circle
+             cx="18"
+             cy="18"
+             fill="#ffffff"
+             fill-opacity="0.95"
+             id="svg_106"
+             r="18"
+             stroke="#22242a"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2px" />
+        </g>
+        <rect
+           class="djs-hit djs-hit-all"
+           fill="none"
+           height="36"
+           id="svg_107"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px"
+           width="36"
+           x="0"
+           y="0" />
+        <circle
+           class="djs-outline"
+           cx="18"
+           cy="18"
+           fill="none"
+           id="svg_108"
+           r="23" />
+      </g>
+    </g>
+    <g
+       class="djs-group"
+       id="svg_109">
+      <g
+         class="djs-element djs-shape"
+         data-element-id="StartEvent_1_label"
+         display="block"
+         id="svg_110"
+         transform="translate(207,285)">
+        <g
+           class="djs-visual"
+           id="svg_111">
+          <text
+             class="djs-label"
+             fill="#22242a"
+             font-family="Arial, sans-serif"
+             font-size="11px"
+             font-weight="normal"
+             id="svg_112"><tspan
+               id="svg_113"
+               x="0"
+               y="9.8999996">Потребность</tspan></text>
+        </g>
+        <rect
+           class="djs-hit djs-hit-all"
+           fill="none"
+           height="14"
+           id="svg_114"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px"
+           width="66"
+           x="0"
+           y="0" />
+        <rect
+           class="djs-outline"
+           fill="none"
+           height="24"
+           id="svg_115"
+           rx="4"
+           width="76"
+           x="-5"
+           y="-5" />
+      </g>
+    </g>
+    <g
+       class="djs-group"
+       id="svg_116">
+      <g
+         class="djs-element djs-shape"
+         data-element-id="Activity_1eu2y02"
+         display="block"
+         id="svg_117"
+         transform="translate(310,220)">
+        <g
+           class="djs-visual"
+           id="svg_118">
+          <rect
+             fill="#ffffff"
+             fill-opacity="0.95"
+             height="80"
+             id="svg_119"
+             rx="10"
+             ry="10"
+             stroke="#22242a"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2px"
+             width="100"
+             x="0"
+             y="0" />
+          <text
+             class="djs-label"
+             fill="#22242a"
+             font-family="Arial, sans-serif"
+             font-size="12px"
+             font-weight="normal"
+             id="svg_120"><tspan
+               id="svg_121"
+               x="11.76"
+               y="29.200001">1. Подготовка</tspan><tspan
+               id="svg_122"
+               x="39.450001"
+               y="43.599998">тех.</tspan><tspan
+               id="svg_123"
+               x="17.41"
+               y="58">требований</tspan></text>
+        </g>
+        <rect
+           class="djs-hit djs-hit-all"
+           fill="none"
+           height="80"
+           id="svg_124"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px"
+           width="100"
+           x="0"
+           y="0" />
+        <rect
+           class="djs-outline"
+           fill="none"
+           height="90"
+           id="svg_125"
+           rx="14"
+           width="110"
+           x="-5"
+           y="-5" />
+      </g>
+    </g>
+    <g
+       class="djs-group"
+       id="svg_126">
+      <g
+         class="djs-element djs-shape"
+         data-element-id="Activity_1ruarp0"
+         display="block"
+         id="svg_127"
+         transform="translate(390,360)">
+        <g
+           class="djs-visual"
+           id="svg_128">
+          <rect
+             fill="#ffffff"
+             fill-opacity="0.95"
+             height="80"
+             id="svg_129"
+             rx="10"
+             ry="10"
+             stroke="#22242a"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2px"
+             width="100"
+             x="0"
+             y="0" />
+          <text
+             class="djs-label"
+             fill="#22242a"
+             font-family="Arial, sans-serif"
+             font-size="12px"
+             font-weight="normal"
+             id="svg_130"><tspan
+               id="svg_131"
+               x="23.440001"
+               y="29.200001">2. Запрос</tspan><tspan
+               id="svg_132"
+               x="8.3100004"
+               y="43.599998">коммерческого</tspan><tspan
+               id="svg_133"
+               x="12.62"
+               y="58">предложения</tspan></text>
+        </g>
+        <rect
+           class="djs-hit djs-hit-all"
+           fill="none"
+           height="80"
+           id="svg_134"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px"
+           width="100"
+           x="0"
+           y="0" />
+        <rect
+           class="djs-outline"
+           fill="none"
+           height="90"
+           id="svg_135"
+           rx="14"
+           width="110"
+           x="-5"
+           y="-5" />
+      </g>
+    </g>
+    <g
+       class="djs-group"
+       id="svg_136">
+      <g
+         class="djs-element djs-shape"
+         data-element-id="Activity_1bk0lrf"
+         display="block"
+         id="svg_137"
+         transform="translate(500,220)">
+        <g
+           class="djs-visual"
+           id="svg_138">
+          <rect
+             fill="#ffffff"
+             fill-opacity="0.95"
+             height="80"
+             id="svg_139"
+             rx="10"
+             ry="10"
+             stroke="#22242a"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2px"
+             width="100"
+             x="0"
+             y="0" />
+          <text
+             class="djs-label"
+             fill="#22242a"
+             font-family="Arial, sans-serif"
+             font-size="12px"
+             font-weight="normal"
+             id="svg_140"><tspan
+               id="svg_141"
+               x="45"
+               y="29.200001">3.</tspan><tspan
+               id="svg_142"
+               x="13.02"
+               y="43.599998">Утверждение</tspan><tspan
+               id="svg_143"
+               x="42.189999"
+               y="58">КП</tspan></text>
+        </g>
+        <rect
+           class="djs-hit djs-hit-all"
+           fill="none"
+           height="80"
+           id="svg_144"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px"
+           width="100"
+           x="0"
+           y="0" />
+        <rect
+           class="djs-outline"
+           fill="none"
+           height="90"
+           id="svg_145"
+           rx="14"
+           width="110"
+           x="-5"
+           y="-5" />
+      </g>
+    </g>
+    <g
+       class="djs-group"
+       id="svg_146">
+      <g
+         class="djs-element djs-shape"
+         data-element-id="Activity_1ixdwvq"
+         display="block"
+         id="svg_147"
+         transform="translate(730,360)">
+        <g
+           class="djs-visual"
+           id="svg_148">
+          <rect
+             fill="#ffffff"
+             fill-opacity="0.95"
+             height="80"
+             id="svg_149"
+             rx="10"
+             ry="10"
+             stroke="#22242a"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2px"
+             width="100"
+             x="0"
+             y="0" />
+          <text
+             class="djs-label"
+             fill="#22242a"
+             font-family="Arial, sans-serif"
+             font-size="12px"
+             font-weight="normal"
+             id="svg_150"><tspan
+               id="svg_151"
+               x="11.76"
+               y="36.400002">5. Подготовка</tspan><tspan
+               id="svg_152"
+               x="24.860001"
+               y="50.799999">договора</tspan></text>
+        </g>
+        <rect
+           class="djs-hit djs-hit-all"
+           fill="none"
+           height="80"
+           id="svg_153"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px"
+           width="100"
+           x="0"
+           y="0" />
+        <rect
+           class="djs-outline"
+           fill="none"
+           height="90"
+           id="svg_154"
+           rx="14"
+           width="110"
+           x="-5"
+           y="-5" />
+      </g>
+    </g>
+    <g
+       class="djs-group"
+       id="svg_155">
+      <g
+         class="djs-element djs-shape"
+         data-element-id="Activity_0lqh02c"
+         display="block"
+         id="svg_156"
+         transform="translate(840,490)">
+        <g
+           class="djs-visual"
+           id="svg_157">
+          <rect
+             fill="#ffffff"
+             fill-opacity="0.95"
+             height="80"
+             id="svg_158"
+             rx="10"
+             ry="10"
+             stroke="#22242a"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2px"
+             width="100"
+             x="0"
+             y="0" />
+          <text
+             class="djs-label"
+             fill="#22242a"
+             font-family="Arial, sans-serif"
+             font-size="12px"
+             font-weight="normal"
+             id="svg_159"><tspan
+               id="svg_160"
+               x="45"
+               y="29.200001">6.</tspan><tspan
+               id="svg_161"
+               x="10.58"
+               y="43.599998">Согласование</tspan><tspan
+               id="svg_162"
+               x="24.860001"
+               y="58">договора</tspan></text>
+        </g>
+        <rect
+           class="djs-hit djs-hit-all"
+           fill="none"
+           height="80"
+           id="svg_163"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px"
+           width="100"
+           x="0"
+           y="0" />
+        <rect
+           class="djs-outline"
+           fill="none"
+           height="90"
+           id="svg_164"
+           rx="14"
+           width="110"
+           x="-5"
+           y="-5" />
+      </g>
+    </g>
+    <g
+       class="djs-group"
+       id="svg_165">
+      <g
+         class="djs-element djs-shape"
+         data-element-id="Activity_0hn5iuv"
+         display="block"
+         id="svg_166"
+         transform="translate(840,610)">
+        <g
+           class="djs-visual"
+           id="svg_167">
+          <rect
+             fill="#ffffff"
+             fill-opacity="0.95"
+             height="80"
+             id="svg_168"
+             rx="10"
+             ry="10"
+             stroke="#22242a"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2px"
+             width="100"
+             x="0"
+             y="0" />
+          <text
+             class="djs-label"
+             fill="#22242a"
+             font-family="Arial, sans-serif"
+             font-size="12px"
+             font-weight="normal"
+             id="svg_169"><tspan
+               id="svg_170"
+               x="45"
+               y="29.200001">7.</tspan><tspan
+               id="svg_171"
+               x="10.58"
+               y="43.599998">Согласование</tspan><tspan
+               id="svg_172"
+               x="24.860001"
+               y="58">договора</tspan></text>
+        </g>
+        <rect
+           class="djs-hit djs-hit-all"
+           fill="none"
+           height="80"
+           id="svg_173"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px"
+           width="100"
+           x="0"
+           y="0" />
+        <rect
+           class="djs-outline"
+           fill="none"
+           height="90"
+           id="svg_174"
+           rx="14"
+           width="110"
+           x="-5"
+           y="-5" />
+      </g>
+    </g>
+    <g
+       class="djs-group"
+       id="svg_175">
+      <g
+         class="djs-element djs-shape"
+         data-element-id="Gateway_092xc3h"
+         display="block"
+         id="svg_176"
+         transform="translate(1005,625)">
+        <g
+           class="djs-visual"
+           id="svg_177">
+          <polygon
+             fill="#ffffff"
+             fill-opacity="0.95"
+             id="svg_178"
+             points="25,0 50,25 25,50 0,25 "
+             stroke="#22242a"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2px" />
+          <path
+             d="m 16,15 7.43,9.71 -7.43,9.72 h 3.43 l 5.71,-7.47 5.72,7.47 h 3.43 L 26.86,24.71 34.29,15 H 30.86 L 25.14,22.46 19.43,15 Z"
+             fill="#22242a"
+             id="svg_179"
+             stroke="#22242a"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="1px" />
+        </g>
+        <rect
+           class="djs-hit djs-hit-all"
+           fill="none"
+           height="50"
+           id="svg_180"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px"
+           width="50"
+           x="0"
+           y="0" />
+        <rect
+           class="djs-outline"
+           fill="none"
+           height="46"
+           id="svg_181"
+           rx="4"
+           width="46"
+           x="2"
+           y="2" />
+      </g>
+    </g>
+    <g
+       class="djs-group"
+       id="svg_182">
+      <g
+         class="djs-element djs-shape"
+         data-element-id="Gateway_092xc3h_label"
+         display="block"
+         id="svg_183"
+         transform="translate(1020,682)">
+        <g
+           class="djs-visual"
+           id="svg_184">
+          <text
+             class="djs-label"
+             fill="#22242a"
+             font-family="Arial, sans-serif"
+             font-size="11px"
+             font-weight="normal"
+             id="svg_185"><tspan
+               id="svg_186"
+               x="0"
+               y="9.8999996">Да?</tspan></text>
+        </g>
+        <rect
+           class="djs-hit djs-hit-all"
+           fill="none"
+           height="14"
+           id="svg_187"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px"
+           width="20"
+           x="0"
+           y="0" />
+        <rect
+           class="djs-outline"
+           fill="none"
+           height="24"
+           id="svg_188"
+           rx="4"
+           width="30"
+           x="-5"
+           y="-5" />
+      </g>
+    </g>
+    <g
+       class="djs-group"
+       id="svg_189">
+      <g
+         class="djs-element djs-shape"
+         data-element-id="Activity_14dxngh"
+         display="block"
+         id="svg_190"
+         transform="translate(980,360)">
+        <g
+           class="djs-visual"
+           id="svg_191">
+          <rect
+             fill="#ffffff"
+             fill-opacity="0.95"
+             height="80"
+             id="svg_192"
+             rx="10"
+             ry="10"
+             stroke="#22242a"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2px"
+             width="100"
+             x="0"
+             y="0" />
+          <text
+             class="djs-label"
+             fill="#22242a"
+             font-family="Arial, sans-serif"
+             font-size="12px"
+             font-weight="normal"
+             id="svg_193"><tspan
+               id="svg_194"
+               x="45"
+               y="29.200001">8.</tspan><tspan
+               id="svg_195"
+               x="12.53"
+               y="43.599998">Направление</tspan><tspan
+               id="svg_196"
+               x="24.860001"
+               y="58">договора</tspan></text>
+        </g>
+        <rect
+           class="djs-hit djs-hit-all"
+           fill="none"
+           height="80"
+           id="svg_197"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px"
+           width="100"
+           x="0"
+           y="0" />
+        <rect
+           class="djs-outline"
+           fill="none"
+           height="90"
+           id="svg_198"
+           rx="14"
+           width="110"
+           x="-5"
+           y="-5" />
+      </g>
+    </g>
+    <g
+       class="djs-group"
+       id="svg_199">
+      <g
+         class="djs-element djs-shape"
+         data-element-id="Activity_1mvry04"
+         display="block"
+         id="svg_200"
+         transform="translate(1140,610)">
+        <g
+           class="djs-visual"
+           id="svg_201">
+          <rect
+             fill="#ffffff"
+             fill-opacity="0.95"
+             height="80"
+             id="svg_202"
+             rx="10"
+             ry="10"
+             stroke="#22242a"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2px"
+             width="100"
+             x="0"
+             y="0" />
+          <text
+             class="djs-label"
+             fill="#22242a"
+             font-family="Arial, sans-serif"
+             font-size="12px"
+             font-weight="normal"
+             id="svg_203"><tspan
+               id="svg_204"
+               x="9.3900003"
+               y="36.400002">9. Подписание</tspan><tspan
+               id="svg_205"
+               x="24.860001"
+               y="50.799999">договора</tspan></text>
+        </g>
+        <rect
+           class="djs-hit djs-hit-all"
+           fill="none"
+           height="80"
+           id="svg_206"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px"
+           width="100"
+           x="0"
+           y="0" />
+        <rect
+           class="djs-outline"
+           fill="none"
+           height="90"
+           id="svg_207"
+           rx="14"
+           width="110"
+           x="-5"
+           y="-5" />
+      </g>
+    </g>
+    <g
+       class="djs-group"
+       id="svg_208">
+      <g
+         class="djs-element djs-shape"
+         data-element-id="Event_1fxpnys"
+         display="block"
+         id="svg_209"
+         transform="translate(1292,632)">
+        <g
+           class="djs-visual"
+           id="svg_210">
+          <circle
+             cx="18"
+             cy="18"
+             fill="#ffffff"
+             fill-opacity="0.95"
+             id="svg_211"
+             r="18"
+             stroke="#22242a"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="4px" />
+        </g>
+        <rect
+           class="djs-hit djs-hit-all"
+           fill="none"
+           height="36"
+           id="svg_212"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px"
+           width="36"
+           x="0"
+           y="0" />
+        <circle
+           class="djs-outline"
+           cx="18"
+           cy="18"
+           fill="none"
+           id="svg_213"
+           r="24" />
+      </g>
+    </g>
+    <g
+       class="djs-group"
+       id="svg_214">
+      <g
+         class="djs-element djs-shape"
+         data-element-id="Activity_1nuzwjm"
+         display="block"
+         id="svg_215"
+         transform="translate(500,610)">
+        <g
+           class="djs-visual"
+           id="svg_216">
+          <rect
+             fill="#ffffff"
+             fill-opacity="0.95"
+             height="80"
+             id="svg_217"
+             rx="10"
+             ry="10"
+             stroke="#22242a"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2px"
+             width="100"
+             x="0"
+             y="0" />
+          <text
+             class="djs-label"
+             fill="#22242a"
+             font-family="Arial, sans-serif"
+             font-size="12px"
+             font-weight="normal"
+             id="svg_218"><tspan
+               id="svg_219"
+               x="45"
+               y="29.200001">4.</tspan><tspan
+               id="svg_220"
+               x="10.58"
+               y="43.599998">Согласование</tspan><tspan
+               id="svg_221"
+               x="26.200001"
+               y="58">цены КП</tspan></text>
+        </g>
+        <rect
+           class="djs-hit djs-hit-all"
+           fill="none"
+           height="80"
+           id="svg_222"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px"
+           width="100"
+           x="0"
+           y="0" />
+        <rect
+           class="djs-outline"
+           fill="none"
+           height="90"
+           id="svg_223"
+           rx="14"
+           width="110"
+           x="-5"
+           y="-5" />
+      </g>
+    </g>
+    <g
+       class="djs-group"
+       id="svg_224">
+      <g
+         class="djs-element djs-shape"
+         data-element-id="Gateway_1y6oyqz"
+         display="block"
+         id="svg_225"
+         transform="translate(645,625)">
+        <g
+           class="djs-visual"
+           id="svg_226">
+          <polygon
+             fill="#ffffff"
+             fill-opacity="0.95"
+             id="svg_227"
+             points="25,0 50,25 25,50 0,25 "
+             stroke="#22242a"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2px" />
+          <path
+             d="m 16,15 7.43,9.71 -7.43,9.72 h 3.43 l 5.71,-7.47 5.72,7.47 h 3.43 L 26.86,24.71 34.29,15 H 30.86 L 25.14,22.46 19.43,15 Z"
+             fill="#22242a"
+             id="svg_228"
+             stroke="#22242a"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="1px" />
+        </g>
+        <rect
+           class="djs-hit djs-hit-all"
+           fill="none"
+           height="50"
+           id="svg_229"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px"
+           width="50"
+           x="0"
+           y="0" />
+        <rect
+           class="djs-outline"
+           fill="none"
+           height="46"
+           id="svg_230"
+           rx="4"
+           width="46"
+           x="2"
+           y="2" />
+      </g>
+    </g>
+    <g
+       class="djs-group"
+       id="svg_231">
+      <g
+         class="djs-element djs-shape"
+         data-element-id="Gateway_1y6oyqz_label"
+         display="block"
+         id="svg_232"
+         transform="translate(660,685)">
+        <g
+           class="djs-visual"
+           id="svg_233">
+          <text
+             class="djs-label"
+             fill="#22242a"
+             font-family="Arial, sans-serif"
+             font-size="11px"
+             font-weight="normal"
+             id="svg_234"><tspan
+               id="svg_235"
+               x="0"
+               y="9.8999996">Да?</tspan></text>
+        </g>
+        <rect
+           class="djs-hit djs-hit-all"
+           fill="none"
+           height="14"
+           id="svg_236"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px"
+           width="20"
+           x="0"
+           y="0" />
+        <rect
+           class="djs-outline"
+           fill="none"
+           height="24"
+           id="svg_237"
+           rx="4"
+           width="30"
+           x="-5"
+           y="-5" />
+      </g>
+    </g>
+    <g
+       class="djs-group"
+       id="svg_238">
+      <g
+         class="djs-element djs-shape"
+         data-element-id="DataObjectReference_1j88j55"
+         display="block"
+         id="svg_239"
+         transform="translate(252,355)">
+        <g
+           class="djs-visual"
+           id="svg_240">
+          <path
+             d="m 0,0 h 28.24 l 7.05,8.2 V 49.18 H 0 V 0 h 28.24 v 8.2 h 7.05"
+             fill="#ffffff"
+             fill-opacity="0.95"
+             id="svg_241"
+             stroke="#22242a"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2px" />
+        </g>
+        <rect
+           class="djs-hit djs-hit-all"
+           fill="none"
+           height="50"
+           id="svg_242"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px"
+           width="36"
+           x="0"
+           y="0" />
+        <path
+           class="djs-outline"
+           d="M 44.76,11.33 36.99,2.64 C 36.05,1.59 34.57,0.99 33.19,0.99 H 5.99 c -2.76,0 -5,2.36 -5,5.27 v 48.76 c 0,2.91 2.24,5.28 5,5.28 h 34.98 c 2.76,0 4.99,-2.37 4.99,-5.28 V 14.95 c 0,-1.35 -0.32,-2.65 -1.2,-3.62 z"
+           fill="none"
+           id="svg_243"
+           stroke-width="2px"
+           transform="translate(-6,-6)" />
+      </g>
+    </g>
+    <g
+       class="djs-group"
+       id="svg_244">
+      <g
+         class="djs-element djs-shape"
+         data-element-id="DataObjectReference_1j88j55_label"
+         display="block"
+         id="svg_245"
+         transform="translate(232,412)">
+        <g
+           class="djs-visual"
+           id="svg_246">
+          <text
+             class="djs-label"
+             fill="#22242a"
+             font-family="Arial, sans-serif"
+             font-size="11px"
+             font-weight="normal"
+             id="svg_247"><tspan
+               id="svg_248"
+               x="0"
+               y="9.8999996">Интернет базы</tspan></text>
+        </g>
+        <rect
+           class="djs-hit djs-hit-all"
+           fill="none"
+           height="14"
+           id="svg_249"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px"
+           width="77"
+           x="0"
+           y="0" />
+        <rect
+           class="djs-outline"
+           fill="none"
+           height="24"
+           id="svg_250"
+           rx="4"
+           width="87"
+           x="-5"
+           y="-5" />
+      </g>
+    </g>
+    <g
+       class="djs-group"
+       id="svg_251">
+      <g
+         class="djs-element djs-shape"
+         data-element-id="DataObjectReference_1duo1zy"
+         display="block"
+         id="svg_252"
+         transform="translate(312,445)">
+        <g
+           class="djs-visual"
+           id="svg_253">
+          <path
+             d="m 0,0 h 28.24 l 7.05,8.2 V 49.18 H 0 V 0 h 28.24 v 8.2 h 7.05"
+             fill="#ffffff"
+             fill-opacity="0.95"
+             id="svg_254"
+             stroke="#22242a"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2px" />
+        </g>
+        <rect
+           class="djs-hit djs-hit-all"
+           fill="none"
+           height="50"
+           id="svg_255"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px"
+           width="36"
+           x="0"
+           y="0" />
+        <path
+           class="djs-outline"
+           d="M 44.76,11.33 36.99,2.64 C 36.05,1.59 34.57,0.99 33.19,0.99 H 5.99 c -2.76,0 -5,2.36 -5,5.27 v 48.76 c 0,2.91 2.24,5.28 5,5.28 h 34.98 c 2.76,0 4.99,-2.37 4.99,-5.28 V 14.95 c 0,-1.35 -0.32,-2.65 -1.2,-3.62 z"
+           fill="none"
+           id="svg_256"
+           stroke-width="2px"
+           transform="translate(-6,-6)" />
+      </g>
+    </g>
+    <g
+       class="djs-group"
+       id="svg_257">
+      <g
+         class="djs-element djs-shape"
+         data-element-id="DataObjectReference_1duo1zy_label"
+         display="block"
+         id="svg_258"
+         transform="translate(290,502)">
+        <g
+           class="djs-visual"
+           id="svg_259">
+          <text
+             class="djs-label"
+             fill="#22242a"
+             font-family="Arial, sans-serif"
+             font-size="11px"
+             font-weight="normal"
+             id="svg_260"><tspan
+               id="svg_261"
+               x="0"
+               y="9.8999996">Типовая форма</tspan></text>
+        </g>
+        <rect
+           class="djs-hit djs-hit-all"
+           fill="none"
+           height="14"
+           id="svg_262"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px"
+           width="81"
+           x="0"
+           y="0" />
+        <rect
+           class="djs-outline"
+           fill="none"
+           height="24"
+           id="svg_263"
+           rx="4"
+           width="91"
+           x="-5"
+           y="-5" />
+      </g>
+    </g>
+    <g
+       class="djs-group"
+       id="svg_264">
+      <g
+         class="djs-element djs-shape"
+         data-element-id="DataObjectReference_1iy7vpy"
+         display="block"
+         id="svg_265"
+         transform="translate(622,235)">
+        <g
+           class="djs-visual"
+           id="svg_266">
+          <path
+             d="m 0,0 h 28.24 l 7.05,8.2 V 49.18 H 0 V 0 h 28.24 v 8.2 h 7.05"
+             fill="#ffffff"
+             fill-opacity="0.95"
+             id="svg_267"
+             stroke="#22242a"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2px" />
+        </g>
+        <rect
+           class="djs-hit djs-hit-all"
+           fill="none"
+           height="50"
+           id="svg_268"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px"
+           width="36"
+           x="0"
+           y="0" />
+        <path
+           class="djs-outline"
+           d="M 44.76,11.33 36.99,2.64 C 36.05,1.59 34.57,0.99 33.19,0.99 H 5.99 c -2.76,0 -5,2.36 -5,5.27 v 48.76 c 0,2.91 2.24,5.28 5,5.28 h 34.98 c 2.76,0 4.99,-2.37 4.99,-5.28 V 14.95 c 0,-1.35 -0.32,-2.65 -1.2,-3.62 z"
+           fill="none"
+           id="svg_269"
+           stroke-width="2px"
+           transform="translate(-6,-6)" />
+      </g>
+    </g>
+    <g
+       class="djs-group"
+       id="svg_270">
+      <g
+         class="djs-element djs-shape"
+         data-element-id="DataObjectReference_1iy7vpy_label"
+         display="block"
+         id="svg_271"
+         transform="translate(618,292)">
+        <g
+           class="djs-visual"
+           id="svg_272">
+          <text
+             class="djs-label"
+             fill="#22242a"
+             font-family="Arial, sans-serif"
+             font-size="11px"
+             font-weight="normal"
+             id="svg_273"><tspan
+               id="svg_274"
+               x="0"
+               y="9.8999996">Порядок</tspan></text>
+        </g>
+        <rect
+           class="djs-hit djs-hit-all"
+           fill="none"
+           height="14"
+           id="svg_275"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px"
+           width="44"
+           x="0"
+           y="0" />
+        <rect
+           class="djs-outline"
+           fill="none"
+           height="24"
+           id="svg_276"
+           rx="4"
+           width="54"
+           x="-5"
+           y="-5" />
+      </g>
+    </g>
+    <g
+       class="djs-group"
+       id="svg_277">
+      <g
+         class="djs-element djs-shape"
+         data-element-id="DataObjectReference_0da1ql3"
+         display="block"
+         id="svg_278"
+         transform="translate(762,235)">
+        <g
+           class="djs-visual"
+           id="svg_279">
+          <path
+             d="m 0,0 h 28.24 l 7.05,8.2 V 49.18 H 0 V 0 h 28.24 v 8.2 h 7.05"
+             fill="#ffffff"
+             fill-opacity="0.95"
+             id="svg_280"
+             stroke="#22242a"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2px" />
+        </g>
+        <rect
+           class="djs-hit djs-hit-all"
+           fill="none"
+           height="50"
+           id="svg_281"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px"
+           width="36"
+           x="0"
+           y="0" />
+        <path
+           class="djs-outline"
+           d="M 44.76,11.33 36.99,2.64 C 36.05,1.59 34.57,0.99 33.19,0.99 H 5.99 c -2.76,0 -5,2.36 -5,5.27 v 48.76 c 0,2.91 2.24,5.28 5,5.28 h 34.98 c 2.76,0 4.99,-2.37 4.99,-5.28 V 14.95 c 0,-1.35 -0.32,-2.65 -1.2,-3.62 z"
+           fill="none"
+           id="svg_282"
+           stroke-width="2px"
+           transform="translate(-6,-6)" />
+      </g>
+    </g>
+    <g
+       class="djs-group"
+       id="svg_283">
+      <g
+         class="djs-element djs-shape"
+         data-element-id="DataObjectReference_0da1ql3_label"
+         display="block"
+         id="svg_284"
+         transform="translate(737,211)">
+        <g
+           class="djs-visual"
+           id="svg_285">
+          <text
+             class="djs-label"
+             fill="#22242a"
+             font-family="Arial, sans-serif"
+             font-size="11px"
+             font-weight="normal"
+             id="svg_286"><tspan
+               id="svg_287"
+               x="0"
+               y="9.8999996">Типовой договор</tspan></text>
+        </g>
+        <rect
+           class="djs-hit djs-hit-all"
+           fill="none"
+           height="14"
+           id="svg_288"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px"
+           width="86"
+           x="0"
+           y="0" />
+        <rect
+           class="djs-outline"
+           fill="none"
+           height="24"
+           id="svg_289"
+           rx="4"
+           width="96"
+           x="-5"
+           y="-5" />
+      </g>
+    </g>
+    <g
+       class="djs-group"
+       id="svg_290">
+      <g
+         class="djs-element djs-shape"
+         data-element-id="DataObjectReference_02iy9x3"
+         display="block"
+         id="svg_291"
+         transform="translate(602,495)">
+        <g
+           class="djs-visual"
+           id="svg_292">
+          <path
+             d="m 0,0 h 28.24 l 7.05,8.2 V 49.18 H 0 V 0 h 28.24 v 8.2 h 7.05"
+             fill="#ffffff"
+             fill-opacity="0.95"
+             id="svg_293"
+             stroke="#22242a"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2px" />
+        </g>
+        <rect
+           class="djs-hit djs-hit-all"
+           fill="none"
+           height="50"
+           id="svg_294"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px"
+           width="36"
+           x="0"
+           y="0" />
+        <path
+           class="djs-outline"
+           d="M 44.76,11.33 36.99,2.64 C 36.05,1.59 34.57,0.99 33.19,0.99 H 5.99 c -2.76,0 -5,2.36 -5,5.27 v 48.76 c 0,2.91 2.24,5.28 5,5.28 h 34.98 c 2.76,0 4.99,-2.37 4.99,-5.28 V 14.95 c 0,-1.35 -0.32,-2.65 -1.2,-3.62 z"
+           fill="none"
+           id="svg_295"
+           stroke-width="2px"
+           transform="translate(-6,-6)" />
+      </g>
+    </g>
+    <g
+       class="djs-group"
+       id="svg_296">
+      <g
+         class="djs-element djs-shape"
+         data-element-id="DataObjectReference_02iy9x3_label"
+         display="block"
+         id="svg_297"
+         transform="translate(590,552)">
+        <g
+           class="djs-visual"
+           id="svg_298">
+          <text
+             class="djs-label"
+             fill="#22242a"
+             font-family="Arial, sans-serif"
+             font-size="11px"
+             font-weight="normal"
+             id="svg_299"><tspan
+               id="svg_300"
+               x="0"
+               y="9.8999996">Инструкция</tspan></text>
+        </g>
+        <rect
+           class="djs-hit djs-hit-all"
+           fill="none"
+           height="14"
+           id="svg_301"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px"
+           width="60"
+           x="0"
+           y="0" />
+        <rect
+           class="djs-outline"
+           fill="none"
+           height="24"
+           id="svg_302"
+           rx="4"
+           width="70"
+           x="-5"
+           y="-5" />
+      </g>
+    </g>
+    <g
+       class="djs-group"
+       id="svg_303">
+      <g
+         class="djs-element djs-shape"
+         data-element-id="DataObjectReference_1t5rdpr"
+         display="block"
+         id="svg_304"
+         transform="translate(982,505)">
+        <g
+           class="djs-visual"
+           id="svg_305">
+          <path
+             d="m 0,0 h 28.24 l 7.05,8.2 V 49.18 H 0 V 0 h 28.24 v 8.2 h 7.05"
+             fill="#ffffff"
+             fill-opacity="0.95"
+             id="svg_306"
+             stroke="#22242a"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2px" />
+        </g>
+        <rect
+           class="djs-hit djs-hit-all"
+           fill="none"
+           height="50"
+           id="svg_307"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px"
+           width="36"
+           x="0"
+           y="0" />
+        <path
+           class="djs-outline"
+           d="M 44.76,11.33 36.99,2.64 C 36.05,1.59 34.57,0.99 33.19,0.99 H 5.99 c -2.76,0 -5,2.36 -5,5.27 v 48.76 c 0,2.91 2.24,5.28 5,5.28 h 34.98 c 2.76,0 4.99,-2.37 4.99,-5.28 V 14.95 c 0,-1.35 -0.32,-2.65 -1.2,-3.62 z"
+           fill="none"
+           id="svg_308"
+           stroke-width="2px"
+           transform="translate(-6,-6)" />
+      </g>
+    </g>
+    <g
+       class="djs-group"
+       id="svg_309">
+      <g
+         class="djs-element djs-shape"
+         data-element-id="DataObjectReference_1t5rdpr_label"
+         display="block"
+         id="svg_310"
+         transform="translate(970,562)">
+        <g
+           class="djs-visual"
+           id="svg_311">
+          <text
+             class="djs-label"
+             fill="#22242a"
+             font-family="Arial, sans-serif"
+             font-size="11px"
+             font-weight="normal"
+             id="svg_312"><tspan
+               id="svg_313"
+               x="0"
+               y="9.8999996">Требования</tspan></text>
+        </g>
+        <rect
+           class="djs-hit djs-hit-all"
+           fill="none"
+           height="14"
+           id="svg_314"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px"
+           width="61"
+           x="0"
+           y="0" />
+        <rect
+           class="djs-outline"
+           fill="none"
+           height="24"
+           id="svg_315"
+           rx="4"
+           width="71"
+           x="-5"
+           y="-5" />
+      </g>
+    </g>
+    <g
+       class="djs-group"
+       id="svg_316">
+      <g
+         class="djs-element djs-connection"
+         data-element-id="Flow_1mnqnym"
+         display="block"
+         id="svg_317">
+        <g
+           class="djs-visual"
+           id="svg_318">
+          <path
+             d="m 258,260 h 52"
+             data-corner-radius="5"
+             fill="none"
+             id="svg_319"
+             marker-end="url('#sequenceflow-end-white-hsl_225_10_15_-62a4gupua6qu24g3pb2so5omc')"
+             stroke="#22242a"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2px" />
+        </g>
+        <path
+           class="djs-hit djs-hit-stroke"
+           d="m 258,260 h 52"
+           fill="none"
+           id="svg_320"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px" />
+        <rect
+           class="djs-outline"
+           fill="none"
+           height="10"
+           id="svg_321"
+           rx="4"
+           width="62"
+           x="253"
+           y="255" />
+      </g>
+    </g>
+    <g
+       class="djs-group"
+       id="svg_322">
+      <g
+         class="djs-element djs-connection"
+         data-element-id="Flow_1kc6g9e"
+         display="block"
+         id="svg_323">
+        <g
+           class="djs-visual"
+           id="svg_324">
+          <path
+             d="m 360,300 v 95 c 0,2.5 2.5,5 5,5 h 25"
+             data-corner-radius="5"
+             fill="none"
+             id="svg_325"
+             marker-end="url('#sequenceflow-end-white-hsl_225_10_15_-62a4gupua6qu24g3pb2so5omc')"
+             stroke="#22242a"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2px" />
+        </g>
+        <path
+           class="djs-hit djs-hit-stroke"
+           d="m 360,300 v 100 h 30"
+           fill="none"
+           id="svg_326"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px" />
+        <rect
+           class="djs-outline"
+           fill="none"
+           height="110"
+           id="svg_327"
+           rx="4"
+           width="40"
+           x="355"
+           y="295" />
+      </g>
+    </g>
+    <g
+       class="djs-group"
+       id="svg_328">
+      <g
+         class="djs-element djs-connection"
+         data-element-id="Flow_0t2t72u"
+         display="block"
+         id="svg_329">
+        <g
+           class="djs-visual"
+           id="svg_330">
+          <path
+             d="M 550,300 V 610"
+             data-corner-radius="5"
+             fill="none"
+             id="svg_331"
+             marker-end="url('#sequenceflow-end-white-hsl_225_10_15_-62a4gupua6qu24g3pb2so5omc')"
+             stroke="#22242a"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2px" />
+        </g>
+        <path
+           class="djs-hit djs-hit-stroke"
+           d="M 550,300 V 610"
+           fill="none"
+           id="svg_332"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px" />
+        <rect
+           class="djs-outline"
+           fill="none"
+           height="320"
+           id="svg_333"
+           rx="4"
+           width="10"
+           x="545"
+           y="295" />
+      </g>
+    </g>
+    <g
+       class="djs-group"
+       id="svg_334">
+      <g
+         class="djs-element djs-connection"
+         data-element-id="Flow_0fgqo8q"
+         display="block"
+         id="svg_335">
+        <g
+           class="djs-visual"
+           id="svg_336">
+          <path
+             d="m 600,650 h 45"
+             data-corner-radius="5"
+             fill="none"
+             id="svg_337"
+             marker-end="url('#sequenceflow-end-white-hsl_225_10_15_-62a4gupua6qu24g3pb2so5omc')"
+             stroke="#22242a"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2px" />
+        </g>
+        <path
+           class="djs-hit djs-hit-stroke"
+           d="m 600,650 h 45"
+           fill="none"
+           id="svg_338"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px" />
+        <rect
+           class="djs-outline"
+           fill="none"
+           height="10"
+           id="svg_339"
+           rx="4"
+           width="55"
+           x="595"
+           y="645" />
+      </g>
+    </g>
+    <g
+       class="djs-group"
+       id="svg_340">
+      <g
+         class="djs-element djs-connection"
+         data-element-id="Flow_08mbpb3"
+         display="block"
+         id="svg_341">
+        <g
+           class="djs-visual"
+           id="svg_342">
+          <path
+             d="m 695,650 h 80 c 2.5,0 5,-2.5 5,-5 V 440"
+             data-corner-radius="5"
+             fill="none"
+             id="svg_343"
+             marker-end="url('#sequenceflow-end-white-hsl_225_10_15_-62a4gupua6qu24g3pb2so5omc')"
+             stroke="#22242a"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2px" />
+        </g>
+        <path
+           class="djs-hit djs-hit-stroke"
+           d="m 695,650 h 85 V 440"
+           fill="none"
+           id="svg_344"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px" />
+        <rect
+           class="djs-outline"
+           fill="none"
+           height="220"
+           id="svg_345"
+           rx="4"
+           width="95"
+           x="690"
+           y="435" />
+      </g>
+    </g>
+    <g
+       class="djs-group"
+       id="svg_346">
+      <g
+         class="djs-element djs-connection"
+         data-element-id="Flow_1slnhza"
+         display="block"
+         id="svg_347">
+        <g
+           class="djs-visual"
+           id="svg_348">
+          <path
+             d="M 670,625 V 205 c 0,-2.5 -2.5,-5 -5,-5 H 365 c -2.5,0 -5,2.5 -5,5 v 15"
+             data-corner-radius="5"
+             fill="none"
+             id="svg_349"
+             marker-end="url('#sequenceflow-end-white-hsl_225_10_15_-62a4gupua6qu24g3pb2so5omc')"
+             stroke="#22242a"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2px" />
+        </g>
+        <path
+           class="djs-hit djs-hit-stroke"
+           d="M 670,625 V 200 H 360 v 20"
+           fill="none"
+           id="svg_350"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px" />
+        <rect
+           class="djs-outline"
+           fill="none"
+           height="435"
+           id="svg_351"
+           rx="4"
+           width="320"
+           x="355"
+           y="195" />
+      </g>
+    </g>
+    <g
+       class="djs-group"
+       id="svg_352">
+      <g
+         class="djs-element djs-connection"
+         data-element-id="Flow_0p1n7mi"
+         display="block"
+         id="svg_353">
+        <g
+           class="djs-visual"
+           id="svg_354">
+          <path
+             d="m 830,400 h 55 c 2.5,0 5,2.5 5,5 v 85"
+             data-corner-radius="5"
+             fill="none"
+             id="svg_355"
+             marker-end="url('#sequenceflow-end-white-hsl_225_10_15_-62a4gupua6qu24g3pb2so5omc')"
+             stroke="#22242a"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2px" />
+        </g>
+        <path
+           class="djs-hit djs-hit-stroke"
+           d="m 830,400 h 60 v 90"
+           fill="none"
+           id="svg_356"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px" />
+        <rect
+           class="djs-outline"
+           fill="none"
+           height="100"
+           id="svg_357"
+           rx="4"
+           width="70"
+           x="825"
+           y="395" />
+      </g>
+    </g>
+    <g
+       class="djs-group"
+       id="svg_358">
+      <g
+         class="djs-element djs-connection"
+         data-element-id="Flow_1gd9uyi"
+         display="block"
+         id="svg_359">
+        <g
+           class="djs-visual"
+           id="svg_360">
+          <path
+             d="m 890,570 v 40"
+             data-corner-radius="5"
+             fill="none"
+             id="svg_361"
+             marker-end="url('#sequenceflow-end-white-hsl_225_10_15_-62a4gupua6qu24g3pb2so5omc')"
+             stroke="#22242a"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2px" />
+        </g>
+        <path
+           class="djs-hit djs-hit-stroke"
+           d="m 890,570 v 40"
+           fill="none"
+           id="svg_362"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px" />
+        <rect
+           class="djs-outline"
+           fill="none"
+           height="50"
+           id="svg_363"
+           rx="4"
+           width="10"
+           x="885"
+           y="565" />
+      </g>
+    </g>
+    <g
+       class="djs-group"
+       id="svg_364">
+      <g
+         class="djs-element djs-connection"
+         data-element-id="Flow_1hp05pv"
+         display="block"
+         id="svg_365">
+        <g
+           class="djs-visual"
+           id="svg_366">
+          <path
+             d="m 940,650 h 65"
+             data-corner-radius="5"
+             fill="none"
+             id="svg_367"
+             marker-end="url('#sequenceflow-end-white-hsl_225_10_15_-62a4gupua6qu24g3pb2so5omc')"
+             stroke="#22242a"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2px" />
+        </g>
+        <path
+           class="djs-hit djs-hit-stroke"
+           d="m 940,650 h 65"
+           fill="none"
+           id="svg_368"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px" />
+        <rect
+           class="djs-outline"
+           fill="none"
+           height="10"
+           id="svg_369"
+           rx="4"
+           width="75"
+           x="935"
+           y="645" />
+      </g>
+    </g>
+    <g
+       class="djs-group"
+       id="svg_370">
+      <g
+         class="djs-element djs-connection"
+         data-element-id="Flow_0m4p3o2"
+         display="block"
+         id="svg_371">
+        <g
+           class="djs-visual"
+           id="svg_372">
+          <path
+             d="M 1030,625 V 440"
+             data-corner-radius="5"
+             fill="none"
+             id="svg_373"
+             marker-end="url('#sequenceflow-end-white-hsl_225_10_15_-62a4gupua6qu24g3pb2so5omc')"
+             stroke="#22242a"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2px" />
+        </g>
+        <path
+           class="djs-hit djs-hit-stroke"
+           d="M 1030,625 V 440"
+           fill="none"
+           id="svg_374"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px" />
+        <rect
+           class="djs-outline"
+           fill="none"
+           height="195"
+           id="svg_375"
+           rx="4"
+           width="10"
+           x="1025"
+           y="435" />
+      </g>
+    </g>
+    <g
+       class="djs-group"
+       id="svg_376">
+      <g
+         class="djs-element djs-connection"
+         data-element-id="Flow_13jmg78"
+         display="block"
+         id="svg_377">
+        <g
+           class="djs-visual"
+           id="svg_378">
+          <path
+             d="m 1240,650 h 52"
+             data-corner-radius="5"
+             fill="none"
+             id="svg_379"
+             marker-end="url('#sequenceflow-end-white-hsl_225_10_15_-62a4gupua6qu24g3pb2so5omc')"
+             stroke="#22242a"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2px" />
+        </g>
+        <path
+           class="djs-hit djs-hit-stroke"
+           d="m 1240,650 h 52"
+           fill="none"
+           id="svg_380"
+           stroke="#ffffff"
+           stroke-opacity="0"
+           stroke-width="15px" />
+        <rect
+           class="djs-outline"
+           fill="none"
+           height="10"
+           id="svg_381"
+           rx="4"
+           width="62"
+           x="1235"
+           y="645" />
+      </g>
+    </g>
+  </g>
+  <g
+     class="djs-group"
+     id="svg_382"
+     transform="translate(-144.06014,-37.027505)">
+    <g
+       class="djs-element djs-connection"
+       data-element-id="DataInputAssociation_0m3wirc"
+       display="block"
+       id="svg_383">
+      <g
+         class="djs-visual"
+         id="svg_384">
+        <path
+           d="m 288,125 29,96"
+           data-corner-radius="5"
+           fill="none"
+           id="svg_385"
+           marker-end="url('#association-end-white-hsl_225_10_15_-62a4gupua6qu24g3pb2so5omc')"
+           stroke="#22242a"
+           stroke-dasharray="0, 5"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2px" />
+      </g>
+      <path
+         class="djs-hit djs-hit-stroke"
+         d="m 288,125 29,96"
+         fill="none"
+         id="svg_386"
+         stroke="#ffffff"
+         stroke-opacity="0"
+         stroke-width="15px" />
+      <rect
+         class="djs-outline"
+         fill="none"
+         height="106"
+         id="svg_387"
+         rx="4"
+         width="39"
+         x="283"
+         y="120" />
+    </g>
+  </g>
+  <g
+     class="djs-group"
+     id="svg_388"
+     transform="translate(-144.06014,-37.027505)">
+    <g
+       class="djs-element djs-connection"
+       data-element-id="DataInputAssociation_0069vem"
+       display="block"
+       id="svg_389">
+      <g
+         class="djs-visual"
+         id="svg_390">
+        <path
+           d="m 287,355 36,-55"
+           data-corner-radius="5"
+           fill="none"
+           id="svg_391"
+           marker-end="url('#association-end-white-hsl_225_10_15_-62a4gupua6qu24g3pb2so5omc')"
+           stroke="#22242a"
+           stroke-dasharray="0, 5"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2px" />
+      </g>
+      <path
+         class="djs-hit djs-hit-stroke"
+         d="m 287,355 36,-55"
+         fill="none"
+         id="svg_392"
+         stroke="#ffffff"
+         stroke-opacity="0"
+         stroke-width="15px" />
+      <rect
+         class="djs-outline"
+         fill="none"
+         height="65"
+         id="svg_393"
+         rx="4"
+         width="46"
+         x="282"
+         y="295" />
+    </g>
+  </g>
+  <g
+     class="djs-group"
+     id="svg_394"
+     transform="translate(-144.06014,-37.027505)">
+    <g
+       class="djs-element djs-connection"
+       data-element-id="DataInputAssociation_1xktg6x"
+       display="block"
+       id="svg_395">
+      <g
+         class="djs-visual"
+         id="svg_396">
+        <path
+           d="M 334,445 358,300"
+           data-corner-radius="5"
+           fill="none"
+           id="svg_397"
+           marker-end="url('#association-end-white-hsl_225_10_15_-62a4gupua6qu24g3pb2so5omc')"
+           stroke="#22242a"
+           stroke-dasharray="0, 5"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2px" />
+      </g>
+      <path
+         class="djs-hit djs-hit-stroke"
+         d="M 334,445 358,300"
+         fill="none"
+         id="svg_398"
+         stroke="#ffffff"
+         stroke-opacity="0"
+         stroke-width="15px" />
+      <rect
+         class="djs-outline"
+         fill="none"
+         height="155"
+         id="svg_399"
+         rx="4"
+         width="34"
+         x="329"
+         y="295" />
+    </g>
+  </g>
+  <g
+     class="djs-group"
+     id="svg_400"
+     transform="translate(-144.06014,-37.027505)">
+    <g
+       class="djs-element djs-connection"
+       data-element-id="DataInputAssociation_105wdl3"
+       display="block"
+       id="svg_401">
+      <g
+         class="djs-visual"
+         id="svg_402">
+        <path
+           d="M 622,260 H 600"
+           data-corner-radius="5"
+           fill="none"
+           id="svg_403"
+           marker-end="url('#association-end-white-hsl_225_10_15_-62a4gupua6qu24g3pb2so5omc')"
+           stroke="#22242a"
+           stroke-dasharray="0, 5"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2px" />
+      </g>
+      <path
+         class="djs-hit djs-hit-stroke"
+         d="M 622,260 H 600"
+         fill="none"
+         id="svg_404"
+         stroke="#ffffff"
+         stroke-opacity="0"
+         stroke-width="15px" />
+      <rect
+         class="djs-outline"
+         fill="none"
+         height="10"
+         id="svg_405"
+         rx="4"
+         width="32"
+         x="595"
+         y="255" />
+    </g>
+  </g>
+  <g
+     class="djs-group"
+     id="svg_406"
+     transform="translate(-144.06014,-37.027505)">
+    <g
+       class="djs-element djs-connection"
+       data-element-id="DataInputAssociation_0h53136"
+       display="block"
+       id="svg_407">
+      <g
+         class="djs-visual"
+         id="svg_408">
+        <path
+           d="m 780,285 v 75"
+           data-corner-radius="5"
+           fill="none"
+           id="svg_409"
+           marker-end="url('#association-end-white-hsl_225_10_15_-62a4gupua6qu24g3pb2so5omc')"
+           stroke="#22242a"
+           stroke-dasharray="0, 5"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2px" />
+      </g>
+      <path
+         class="djs-hit djs-hit-stroke"
+         d="m 780,285 v 75"
+         fill="none"
+         id="svg_410"
+         stroke="#ffffff"
+         stroke-opacity="0"
+         stroke-width="15px" />
+      <rect
+         class="djs-outline"
+         fill="none"
+         height="85"
+         id="svg_411"
+         rx="4"
+         width="10"
+         x="775"
+         y="280" />
+    </g>
+  </g>
+  <g
+     class="djs-group"
+     id="svg_412"
+     transform="translate(-144.06014,-37.027505)">
+    <g
+       class="djs-element djs-connection"
+       data-element-id="DataInputAssociation_04ol9co"
+       display="block"
+       id="svg_413">
+      <g
+         class="djs-visual"
+         id="svg_414">
+        <path
+           d="M 982,530 H 940"
+           data-corner-radius="5"
+           fill="none"
+           id="svg_415"
+           marker-end="url('#association-end-white-hsl_225_10_15_-62a4gupua6qu24g3pb2so5omc')"
+           stroke="#22242a"
+           stroke-dasharray="0, 5"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2px" />
+      </g>
+      <path
+         class="djs-hit djs-hit-stroke"
+         d="M 982,530 H 940"
+         fill="none"
+         id="svg_416"
+         stroke="#ffffff"
+         stroke-opacity="0"
+         stroke-width="15px" />
+      <rect
+         class="djs-outline"
+         fill="none"
+         height="10"
+         id="svg_417"
+         rx="4"
+         width="52"
+         x="935"
+         y="525" />
+    </g>
+  </g>
+  <g
+     class="djs-group"
+     id="svg_418"
+     transform="translate(-144.06014,-37.027505)">
+    <g
+       class="djs-element djs-connection"
+       data-element-id="DataInputAssociation_1mxgo08"
+       display="block"
+       id="svg_419">
+      <g
+         class="djs-visual"
+         id="svg_420">
+        <path
+           d="m 610,545 -26,65"
+           data-corner-radius="5"
+           fill="none"
+           id="svg_421"
+           marker-end="url('#association-end-white-hsl_225_10_15_-62a4gupua6qu24g3pb2so5omc')"
+           stroke="#22242a"
+           stroke-dasharray="0, 5"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2px" />
+      </g>
+      <path
+         class="djs-hit djs-hit-stroke"
+         d="m 610,545 -26,65"
+         fill="none"
+         id="svg_422"
+         stroke="#ffffff"
+         stroke-opacity="0"
+         stroke-width="15px" />
+      <rect
+         class="djs-outline"
+         fill="none"
+         height="75"
+         id="svg_423"
+         rx="4"
+         width="36"
+         x="579"
+         y="540" />
+    </g>
+  </g>
+  <g
+     class="djs-group"
+     id="svg_424"
+     transform="translate(-144.06014,-37.027505)">
+    <g
+       class="djs-element djs-connection"
+       data-element-id="Flow_1rp6z0k"
+       display="block"
+       id="svg_425">
+      <g
+         class="djs-visual"
+         id="svg_426">
+        <path
+           d="M 450,360 V 140"
+           data-corner-radius="5"
+           fill="none"
+           id="svg_427"
+           marker-end="url('#messageflow-end-white-hsl_225_10_15_-62a4gupua6qu24g3pb2so5omc')"
+           marker-start="url('#messageflow-start-white-hsl_225_10_15_-62a4gupua6qu24g3pb2so5omc')"
+           stroke="#22242a"
+           stroke-dasharray="10, 11"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="1.5px" />
+      </g>
+      <path
+         class="djs-hit djs-hit-stroke"
+         d="M 450,360 V 140"
+         fill="none"
+         id="svg_428"
+         stroke="#ffffff"
+         stroke-opacity="0"
+         stroke-width="15px" />
+      <rect
+         class="djs-outline"
+         fill="none"
+         height="230"
+         id="svg_429"
+         rx="4"
+         width="10"
+         x="445"
+         y="135" />
+    </g>
+  </g>
+  <g
+     class="djs-group"
+     id="svg_430"
+     transform="translate(-144.06014,-37.027505)">
+    <g
+       class="djs-element djs-connection"
+       data-element-id="Flow_0p0ljr5"
+       display="block"
+       id="svg_431">
+      <g
+         class="djs-visual"
+         id="svg_432">
+        <path
+           d="m 460,140 v 35 c 0,2.5 2.5,5 5,5 h 80 c 2.5,0 5,2.5 5,5 v 35"
+           data-corner-radius="5"
+           fill="none"
+           id="svg_433"
+           marker-end="url('#messageflow-end-white-hsl_225_10_15_-62a4gupua6qu24g3pb2so5omc')"
+           marker-start="url('#messageflow-start-white-hsl_225_10_15_-62a4gupua6qu24g3pb2so5omc')"
+           stroke="#22242a"
+           stroke-dasharray="10, 11"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="1.5px" />
+      </g>
+      <path
+         class="djs-hit djs-hit-stroke"
+         d="m 460,140 v 40 h 90 v 40"
+         fill="none"
+         id="svg_434"
+         stroke="#ffffff"
+         stroke-opacity="0"
+         stroke-width="15px" />
+      <rect
+         class="djs-outline"
+         fill="none"
+         height="90"
+         id="svg_435"
+         rx="4"
+         width="100"
+         x="455"
+         y="135" />
+    </g>
+  </g>
+  <g
+     class="djs-group"
+     id="svg_436"
+     transform="translate(-144.06014,-37.027505)">
+    <g
+       class="djs-element djs-connection"
+       data-element-id="Flow_1shew91"
+       display="block"
+       id="svg_437">
+      <g
+         class="djs-visual"
+         id="svg_438">
+        <path
+           d="M 1030,360 V 140"
+           data-corner-radius="5"
+           fill="none"
+           id="svg_439"
+           marker-end="url('#messageflow-end-white-hsl_225_10_15_-62a4gupua6qu24g3pb2so5omc')"
+           marker-start="url('#messageflow-start-white-hsl_225_10_15_-62a4gupua6qu24g3pb2so5omc')"
+           stroke="#22242a"
+           stroke-dasharray="10, 11"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="1.5px" />
+      </g>
+      <path
+         class="djs-hit djs-hit-stroke"
+         d="M 1030,360 V 140"
+         fill="none"
+         id="svg_440"
+         stroke="#ffffff"
+         stroke-opacity="0"
+         stroke-width="15px" />
+      <rect
+         class="djs-outline"
+         fill="none"
+         height="230"
+         id="svg_441"
+         rx="4"
+         width="10"
+         x="1025"
+         y="135" />
+    </g>
+  </g>
+  <g
+     class="djs-group"
+     id="svg_442"
+     transform="translate(-144.06014,-37.027505)">
+    <g
+       class="djs-element djs-connection"
+       data-element-id="Flow_1qo6mne"
+       display="block"
+       id="svg_443">
+      <g
+         class="djs-visual"
+         id="svg_444">
+        <path
+           d="m 1070,100 h 105 c 2.5,0 5.09,2.5 5.18,5 l 9.64,270 c 0.09,2.5 0.18,7.5 0.18,10 v 225"
+           data-corner-radius="5"
+           fill="none"
+           id="svg_445"
+           marker-end="url('#messageflow-end-white-hsl_225_10_15_-62a4gupua6qu24g3pb2so5omc')"
+           marker-start="url('#messageflow-start-white-hsl_225_10_15_-62a4gupua6qu24g3pb2so5omc')"
+           stroke="#22242a"
+           stroke-dasharray="10, 11"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="1.5px" />
+      </g>
+      <path
+         class="djs-hit djs-hit-stroke"
+         d="m 1070,100 h 110 l 10,280 v 230"
+         fill="none"
+         id="svg_446"
+         stroke="#ffffff"
+         stroke-opacity="0"
+         stroke-width="15px" />
+      <rect
+         class="djs-outline"
+         fill="none"
+         height="520"
+         id="svg_447"
+         rx="4"
+         width="130"
+         x="1065"
+         y="95" />
+    </g>
+  </g>
+  <ellipse
+     style="fill:none;fill-opacity:0.964706;stroke:#ff0000;stroke-width:3.96962;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="path1"
+     cx="651.82019"
+     cy="117.49444"
+     rx="442.05569"
+     ry="166.5116"
+     transform="matrix(0.89359466,0.4488748,-0.29916545,0.95420125,0,0)" />
+  <ellipse
+     style="fill:none;fill-opacity:0.964706;stroke:#ff0000;stroke-width:3.13598;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="ellipse1"
+     cx="507.27411"
+     cy="61.781029"
+     rx="291.40167"
+     ry="157.64459"
+     transform="matrix(0.7465636,0.66531405,-0.17402761,0.98474077,0,0)" />
+  <text
+     xml:space="preserve"
+     id="text1"
+     style="white-space:pre;shape-inside:url(#rect1);fill:#ff0000;fill-opacity:0.964706;stroke:none;stroke-width:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     transform="matrix(1.0194714,0,0,0.99478721,-13.932922,0.77122049)"><tspan
+       x="74.251953"
+       y="274.78764"
+       id="tspan1">*1 Плохо </tspan><tspan
+       x="74.251953"
+       y="289.78764"
+       id="tspan2">подготовлены </tspan><tspan
+       x="74.251953"
+       y="304.78764"
+       id="tspan3">тех требования</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text2"
+     style="white-space:pre;shape-inside:url(#rect2);fill:#ff0000;fill-opacity:0.964706;stroke:none;stroke-width:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+       x="91.638672"
+       y="573.43022"
+       id="tspan4">*2 Несоответствие предложения </tspan><tspan
+       x="91.638672"
+       y="588.43022"
+       id="tspan5">согласованной цене</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text3"
+     style="white-space:pre;shape-inside:url(#rect3);fill:#ff0000;fill-opacity:0.964706;stroke:none;stroke-width:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+       x="697.73633"
+       y="185.06303"
+       id="tspan6">*3 Старая форма </tspan><tspan
+       x="697.73633"
+       y="200.06303"
+       id="tspan7">типового  догоовора</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text4"
+     style="white-space:pre;shape-inside:url(#rect4);fill:#ff0000;fill-opacity:0.964706;stroke:none;stroke-width:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+       x="517.22852"
+       y="98.857955"
+       id="tspan8">Повторный </tspan><tspan
+       x="517.22852"
+       y="113.85796"
+       id="tspan9">цикл 1</tspan></text>
+  <rect
+     style="fill:none;fill-opacity:0.964706;stroke:#ff0000;stroke-width:1.37086;stroke-dasharray:none"
+     id="rect5"
+     width="87.990898"
+     height="37.656647"
+     x="506.49942"
+     y="86.468643" />
+  <rect
+     style="fill:none;fill-opacity:0.964706;stroke:#ff0000;stroke-width:1.37086;stroke-dasharray:none"
+     id="rect6"
+     width="87.990898"
+     height="37.656647"
+     x="724.03601"
+     y="242.09988" />
+  <text
+     xml:space="preserve"
+     id="text14"
+     style="white-space:pre;shape-inside:url(#rect14);fill:#ff0000;fill-opacity:0.964706;stroke:none;stroke-width:2;stroke-dasharray:none"><tspan
+       x="730.13672"
+       y="257.96147"
+       id="tspan10">Повторный </tspan><tspan
+       x="730.13672"
+       y="272.96147"
+       id="tspan11">цикл2</tspan></text>
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 542.10583,122.65361 432.18042,275.97063"
+     id="path14"
+     inkscape:connector-type="polyline"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 759.64243,279.44196 732.45035,326.3049"
+     id="path15"
+     inkscape:connector-type="polyline"
+     inkscape:connector-curvature="0" />
+</svg>
